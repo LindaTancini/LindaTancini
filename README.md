@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&pause=500&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi+there!++;I'm+Linda+Tancini+✨" alt="Typing SVG" />
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=200&color=FF69B4&center=true&vCenter=true&width=650&lines=Hi+there!;+I%E2%80%99m+Linda+Tancini+%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -48,3 +46,4 @@
 
 Wanna talk about code, design or something else?  
 ➡️ **This is my LinkedIn:** [Linda Tancini](https://www.linkedin.com/in/linda-tancini-2ba649388/)
+
