@@ -34,7 +34,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![API](https://img.shields.io/badge/API-FFCA28?style=for-the-badge&logo=json)
 
 #### Currently Learning
 
@@ -46,4 +45,5 @@
 
 Wanna talk about code, design or something else?  
 ➡️ **This is my LinkedIn:** [Linda Tancini](https://www.linkedin.com/in/linda-tancini-2ba649388/)
+
 
