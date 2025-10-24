@@ -41,9 +41,17 @@
 
 <hr style="border:1px solid #F7C6D0; width:80%; margin: 30px auto;">
 
+### 📈 GitHub Stats
+
+![Linda's GitHub stats](https://github-readme-stats.vercel.app/api?username=LindaTancini&show_icons=true&theme=rose_pine)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LindaTancini&layout=compact&theme=rose_pine)
+
+<hr style="border:1px solid #F7C6D0; width:80%; margin: 30px auto;">
+
 ### 💌 Connect with me!
 
 Wanna talk about code, design or something else?  
 ➡️ **This is my LinkedIn:** [Linda Tancini](https://www.linkedin.com/in/linda-tancini-2ba649388/)
+
 
 
